@@ -5,11 +5,11 @@
 TIGRESS                                                     D. Vinokurov
 Internet-Draft                                               M. Byington
 Intended status: Standards Track                                M. Lerch
-Expires: 3 April 2023                                       A. Pelletier
+Expires: 13 May 2023                                        A. Pelletier
                                                                Apple Inc
                                                                   N. Sha
                                                             Alphabet Inc
-                                                       30 September 2022
+                                                         9 November 2022
 
 
                  Transfer Digital Credentials Securely
@@ -48,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 April 2023.
+   This Internet-Draft will expire on 13 May 2023.
 
 Copyright Notice
 
@@ -1287,9 +1287,9 @@ https://relayserver.example.com/v1/m/2bba630e-519b-11ec-bf63-0242ac130002?v=c#hX
 
    [CCC-Digital-Key-30]
               Car Connectivity Consortium, "Digital Key – The Future of
-              Vehicle Access", November 2021, <https://global-
-              carconnectivity.org/wp-content/uploads/2021/11/
-              CCC_Digital_Key_Whitepaper_Approved.pdf>.
+              Vehicle Access", November 2021,
+              <https://carconnectivity.org/download-digital-key-
+              3-specification/>.
 
    [ISO-18013-5]
               Cards and security devices for personal identification,
