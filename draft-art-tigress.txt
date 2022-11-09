@@ -1286,9 +1286,8 @@ https://relayserver.example.com/v1/m/2bba630e-519b-11ec-bf63-0242ac130002?v=c#hX
 9.1.  Normative References
 
    [CCC-Digital-Key-30]
-              Car Connectivity Consortium, "Digital Key – The Future of
-              Vehicle Access", November 2021,
-              <https://carconnectivity.org/download-digital-key-
+              Car Connectivity Consortium, "Digital Key Release 3", July
+              2022, <https://carconnectivity.org/download-digital-key-
               3-specification/>.
 
    [ISO-18013-5]
